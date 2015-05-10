@@ -1,0 +1,3 @@
+When you initialize a repository, a .git file is created, which allows you to create new commits. 
+
+Staging area links the repository and working directory. It shows which files from the working directory are and are not in the staging area.
