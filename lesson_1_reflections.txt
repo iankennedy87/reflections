@@ -1,0 +1,11 @@
+Viewing diff displayed the lines on which text was different for two versions. Since the lines were short, spotting the difference was easy. 
+
+With access to the entire history of a file, it is easy to find mistakes if your code becomes unworkable. This will make you a more efficient programmer since you will not waste time searching for mistakes, or correcting large swaths of code. 
+
+Manual saving helps to ensure that commits are usable. However, you risk user error and forgetting to save. 
+
+Git is tailored towards programming, which often involves multiple files. Google Docs is for general purpose use. 
+
+Git log lists the commits. Then you can use git diff to show the differences between two commits. 
+
+If you know that you can simply return to a previous version that worked, you can be more confident to make changes that coudl break something. 
