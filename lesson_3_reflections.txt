@@ -9,3 +9,7 @@ To ensure that only logical commits are added to the repository.
 What are the differences between forks, clones, and branches?
 
 Forks are copies of another repository on github. Clones are full copies of repositories. Forks are a type of clone done on github servers. Branches contain commit histories. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally? 
+
+In case you can't access it. So you know what the last version pushed to gitHub was.
